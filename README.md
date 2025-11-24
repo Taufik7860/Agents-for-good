@@ -63,11 +63,15 @@ agents-for-good-studypath/
 ├─ README.md
 ├─ requirements.txt
 ├─ .gitignore
+├─ .env
 ├─ .env.example
 ├─ data/
 │  └─ topics.json
 └─ src/
+   ├─ __init__.py
    ├─ agents_setup.py
    ├─ tools.py
    ├─ chat_cli.py
+   ├─ web_app.py
    └─ evaluate.py
+
