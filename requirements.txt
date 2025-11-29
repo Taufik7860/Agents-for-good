@@ -1,3 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+agents
+reportlab
+python-dotenv
 openai-agents>=0.6.0
 python-dotenv>=1.0.1
 fastapi>=0.115.0
