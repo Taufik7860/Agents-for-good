@@ -59,20 +59,64 @@ You can highlight any **3 or more** of these in your written report.
 ## 3. Project Structure
 
 ```text
-
 agents-for-good-studypath/
-├─ README.md
-├─ requirements.txt
-├─ .gitignore
-├─ .env
-├─ .env.example
-├─ data/
-│  └─ topics.json
-└─ src/
-   ├─ __init__.py
-   ├─ agents_setup.py
-   ├─ tools.py
-   ├─ chat_cli.py
-   ├─ web_app.py
-   └─ evaluate.py
+│
+├── .env                     ← Your real API key (never upload)
+├── .env.example             ← Template for GitHub
+├── .gitignore
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── topics.json          ← (Optional) internal data file
+│
+├── database/
+│   ├── users.db             ← Login/Register database
+│   ├── sessions.db          ← Save chat & conversation tracking
+│   ├── quiz.db              ← Quiz progress save
+│   └── files/               ← Uploaded PDF/JPG/PNG storage
+│
+├── src/
+│   ├── __init__.py
+│   ├── agents_setup.py      ← OpenAI Agents SDK, models
+│   ├── tools.py             ← File-reading, formatting tools
+│   ├── auth.py              ← Login, Register backend logic
+│   ├── chat_history.py      ← Save/Rename/Delete chat history
+│   ├── quiz_engine.py       ← Quiz mode backend logic
+│   ├── voice_engine.py      ← Voice-to-text + text-to-voice
+│   ├── web_app.py           ← MAIN FastAPI app (UI backend)
+│   └── utils.py             ← Helper functions
+│
+├── templates/
+│   ├── index.html           ← Main web chat UI
+│   ├── login.html           ← Login page
+│   ├── register.html        ← Registration page
+│   ├── quiz.html            ← Quiz mode UI
+│   ├── history.html         ← Saved conversations list
+│   └── layout.html          ← Base template (header/sidebar/footer)
+│
+├── static/
+│   ├── css/
+│   │   ├── style.css        ← Dark UI, chat bubbles, animations
+│   │   ├── login.css
+│   │   └── quiz.css
+│   │
+│   ├── js/
+│   │   ├── main.js          ← Chat + feedback + voice input logic
+│   │   ├── quiz.js          ← Quiz mode UI logic
+│   │   ├── auth.js          ← Login/Register frontend logic
+│   │   └── history.js       ← Rename/Delete saved chats
+│   │
+│   ├── icons/
+│   │   ├── mic.svg
+│   │   ├── send.svg
+│   │   ├── delete.svg
+│   │   ├── rename.svg
+│   │   ├── folder.svg
+│   │   └── avatar.png
+│   │
+│   └── images/
+│       └── logo.png         ← Your project logo (top-left)
+│
+└── web_sessions.db          ← Agents SDK session memory
 
