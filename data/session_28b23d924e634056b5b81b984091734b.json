@@ -1,0 +1,21 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "tutor",
+      "content": "📌 Hello! Welcome to StudyPath!  \n\n- How can I help you today?  \n- Do you want a study plan, practice quiz, or have a question?  \n- Feel free to ask anything!"
+    },
+    {
+      "role": "user",
+      "content": "python quiz"
+    },
+    {
+      "role": "tutor",
+      "content": "📚 Let's start a fun Python quiz!\n\n1. What symbol is used to start a comment in Python?  \n  a) //  \n  b) #  \n  c) /*  \n  d) --  \n\n2. Which of these is a correct way to create a list in Python?  \n  a) list = (1, 2, 3)  \n  b) list = [1, 2, 3]  \n  c) list = {1, 2, 3}  \n  d) list = <1, 2, 3>  \n\n3. What will this code print?  \n```python\nprint(type(3.14))\n```  \n  a) `<class 'int'>`  \n  b) `<class 'float'>`  \n  c) `<class 'str'>`  \n  d) `<class 'bool'>`  \n\n4. Which keyword is used to define a function in Python?  \n  a) func  \n  b) function  \n  c) def  \n  d) define  \n\nPlease share your answers!"
+    }
+  ],
+  "plan": "📌 Hello! Welcome to StudyPath!  \n\n- How can I help you today?  \n- Do you want a study plan, practice quiz, or have a question?  \n- Feel free to ask anything!"
+}

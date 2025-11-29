@@ -1,0 +1,12 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "[quiz request] python (10 Qs)"
+    },
+    {
+      "role": "tutor",
+      "content": "Generated a quiz with 10 questions on python."
+    }
+  ]
+}

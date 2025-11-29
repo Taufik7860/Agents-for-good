@@ -1,0 +1,20 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "[quiz request] python (5 Qs)"
+    },
+    {
+      "role": "tutor",
+      "content": "Generated a quiz with 5 questions on python."
+    },
+    {
+      "role": "user",
+      "content": "can you make revision plan for 10th class to score 95 within 10 days"
+    },
+    {
+      "role": "tutor",
+      "content": "# 🎯 10-Day Revision Plan to Score 95% in 10th Class\n\nYou can do this! Stay focused and consistent with your study plan. Here's a realistic 10-day plan to help you cover all important subjects and maximize your score.\n\n| Day  | Focus Area                          | Activities                                               |\n|-------|-----------------------------------|---------------------------------------------------------|\n| Day 1 | Mathematics                       | Revise key formulas, practice algebra and geometry problems. |\n| Day 2 | Science (Physics)                 | Review concepts, solve numerical problems, revise laws and formulas. |\n| Day 3 | Science (Chemistry)               | Study periodic table, chemical reactions, practice equations. |\n| Day 4 | Science (Biology)                 | Revise human body, plant biology, diagrams, and important terms. |\n| Day 5 | English (Reading & Writing)       | Practice grammar, writing essays, letters, and reading comprehension. |\n| Day 6 | Social Studies (History)           | Revise important dates, events, and causes/effects of historical events. |\n| Day 7 | Social Studies (Geography)         | Study maps, important geographical phenomena, and environmental topics. |\n| Day 8 | Mathematics                      | Solve previous year question papers, focus on weak areas. |\n| Day 9 | Science                         | Solve sample papers for Physics, Chemistry, and Biology. |\n| Day 10| Social Studies & English         | Revise key points, practice writing and reading, quick revision of all subjects. |\n\n### Suggested Free Resources:\n- **Khan Academy** (khanacademy.org): Free videos and practice exercises for all subjects.\n- **NCERT Textbooks PDF** (ncert.nic.in): Official textbooks for clear concepts and exercises.\n- **Toppr** (toppr.com): Offers free study materials and practice tests for 10th class students.\n\nKeep a positive mindset, take short breaks, and reward yourself after each day’s study. You’ve got this! 🚀"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "maharashtra me kitne rajya hai"
+    },
+    {
+      "role": "tutor",
+      "content": "📌 Maharashtra is a state, not made up of multiple states.\n\n- **Maharashtra** itself is one of the 28 states in India.\n- It is divided into **districts**, not states.\n- Currently, Maharashtra has **36 districts**.\n\nIf you want to know about the districts or any other details about Maharashtra, feel free to ask!"
+    },
+    {
+      "role": "user",
+      "content": "can you tell me in hindi"
+    },
+    {
+      "role": "tutor",
+      "content": "📌 महाराष्ट्र एक राज्य है, कई राज्यों का समूह नहीं।\n\n- **महाराष्ट्र** भारत के 28 राज्यों में से एक है।\n- यह कई **जिलों** में बंटा हुआ है, राज्यों में नहीं।\n- महाराष्ट्र में कुल **36 जिले** हैं।\n\nअगर आप जिलों या महाराष्ट्र के बारे में और जानना चाहते हैं, तो जरूर पूछें!"
+    }
+  ]
+}

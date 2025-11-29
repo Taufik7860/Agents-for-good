@@ -1,0 +1,13 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "tutor",
+      "content": "📌 Hello! Welcome to StudyPath!  \n\n- How can I help you today?  \n- You can ask for study plans, quizzes, or explanations.  \n- Just tell me what subject or topic you want to focus on!  \n\nI'm here to support your learning journey! 😊"
+    }
+  ],
+  "plan": "📌 Hello! Welcome to StudyPath!  \n\n- How can I help you today?  \n- You can ask for study plans, quizzes, or explanations.  \n- Just tell me what subject or topic you want to focus on!  \n\nI'm here to support your learning journey! 😊"
+}

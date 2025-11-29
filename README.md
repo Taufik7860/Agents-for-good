@@ -59,6 +59,7 @@ You can highlight any **3 or more** of these in your written report.
 ## 3. Project Structure
 
 ```text
+
 agents-for-good-studypath/
 ├─ README.md
 ├─ requirements.txt

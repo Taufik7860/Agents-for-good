@@ -1,0 +1,13 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "tutor",
+      "content": "👋 Hello! Welcome to STUDYPATH – Agents For You!\n\n- How can I help you today?\n- Need a **study plan**, **practice quiz**, or quick **explanation**?\n- Just tell me what you want to learn or do!"
+    }
+  ],
+  "plan": "👋 Hello! Welcome to STUDYPATH – Agents For You!\n\n- How can I help you today?\n- Need a **study plan**, **practice quiz**, or quick **explanation**?\n- Just tell me what you want to learn or do!"
+}
