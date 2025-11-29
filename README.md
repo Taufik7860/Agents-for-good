@@ -4,6 +4,13 @@ A simple **multi-agent AI tutor** built with the **OpenAI Agents SDK**, designed
 
 It is my capstone project for the **Agents Intensive – Capstone (Agents for Good)**.
 
+
+
+
+## 🌐 Live Demo  
+🔗 https://agents-for-good-studypath.onrender.com
+
+
 ---
 
 ## 1. Problem & Idea (Agents for Good)
